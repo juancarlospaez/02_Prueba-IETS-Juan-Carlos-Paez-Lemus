@@ -1,0 +1,8 @@
+Capacidad Instalada para la Atención de Salud Mental en Colombia: Análisis por Categoría y Equipamiento
+Este análisis evalúa la capacidad instalada para atención en salud mental en Colombia, utilizando datos del REPS sobre camas, camillas y sillas disponibles en servicios generales, adultos y pediátricos. Los resultados identifican brechas críticas para orientar la planificación sectorial.
+
+La visualización muestra mediante círculos proporcionales la relación entre infraestructura disponible y población rural por departamento, evidenciando regiones prioritarias que requieren fortalecimiento inmediato.
+El estudio revela severas inequidades territoriales: Chocó presenta apenas 16 camas para 352,000 habitantes rurales (0.05 camas/1000), Cauca dispone de 295 camas para un millón de habitantes rurales y Córdoba cuenta con 425 camas para 887,737 personas. Estas deficiencias contrastan con Bogotá, que concentra 2,294 camas para solo 31,751 habitantes rurales, confirmando una distribución de recursos que perjudica sistemáticamente a las comunidades rurales colombianas.
+
+Gráfico 2. Relación entre Equipos servicios habilitados para Salud Mental y Población Rural por Departamento (Colombia) (Grafico disponible en HTML)
+

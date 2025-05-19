@@ -1,0 +1,3 @@
+El mapa interactivo muestra la distribución de población femenina y masculina en los departamentos de Cauca, Córdoba y Chocó. Para cada uno, se visualizan las cifras reportadas por sexo, permitiendo identificar rápidamente la composición demográfica básica de estas regiones. Esta herramienta facilita el análisis comparativo y la toma de decisiones orientadas a la planificación sectorial y la asignación de recursos según la estructura poblacional de cada territorio.
+
+Gráfico 3. Distribución por sexo de la población en Cauca, Córdoba y Chocó (grafico disponible HTML)
